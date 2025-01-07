@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://user-authentication-system-qktq.onrender.com/api',
+    baseURL: 'https://access-authenticate-page.onrender.com/api',
 });
 
 export default api;
