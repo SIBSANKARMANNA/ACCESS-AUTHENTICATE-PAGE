@@ -7,6 +7,8 @@
 - Backend built using Node.js with MongoDB for data storage.
 - Password encryption with bcrypt.js for enhanced security.
 
+- lIVE PROJECT :https://access-authenticated-page.netlify.app/
+
 ## Technical Stack
 - **Frontend**: React.js, CSS
 - **Backend**: Node.js, MongoDB
